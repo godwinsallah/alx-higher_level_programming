@@ -2,7 +2,7 @@
 #3-print_reversed_list_integer.py
 
 def print_reversed_list_integer(my_list=[]):
-    """prints integers of a list in reverse"""
+    """prints integers of list in reverse"""
 
     if isinstance(my_list, list):
         my_list.reverse()
